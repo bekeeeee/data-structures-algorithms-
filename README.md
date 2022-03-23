@@ -1,2 +1,2 @@
 The Coding Interview Bootcamp: Algorithms + Data Structures by Stephen Grider
-https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.ROW&utm_content=deal4584&utm_term=_._ag_88010211481_._ad_535397282061_._kw__._de_c_._dm__._pl__._ti_dsa-406594358574_._li_1028889_._pd__._&matchtype=&gclid=Cj0KCQjw5-WRBhCKARIsAAId9Fm3tpjnBC_ovwWQcDVqLNLyndZKja_ajOrojvrZWezCz7ZwGLbDDo8aApsmEALw_wcB
+https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/
